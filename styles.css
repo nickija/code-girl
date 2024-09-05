@@ -1,0 +1,18 @@
+.carousel {
+  width: 500px;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 80px;
+  left: -50px;
+}
+
+.carousel .carousel-item img {
+  max-height: 300px;
+  min-width: auto;
+}
+
+hr {
+  border: 10px solid;
+}
